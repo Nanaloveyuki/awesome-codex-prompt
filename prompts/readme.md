@@ -1,0 +1,1 @@
+[safety-prompt](https://xwuxl.com/2026/04/16/codex-cli-ctf-unrestricted-prompt/)
